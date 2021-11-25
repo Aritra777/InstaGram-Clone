@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InstaGram-Clone/static/css/main.ebbcf7d0.chunk.css",
+    "main.js": "/InstaGram-Clone/static/js/main.16dea142.chunk.js",
+    "main.js.map": "/InstaGram-Clone/static/js/main.16dea142.chunk.js.map",
+    "runtime-main.js": "/InstaGram-Clone/static/js/runtime-main.3006790d.js",
+    "runtime-main.js.map": "/InstaGram-Clone/static/js/runtime-main.3006790d.js.map",
+    "static/js/2.4da497e7.chunk.js": "/InstaGram-Clone/static/js/2.4da497e7.chunk.js",
+    "static/js/2.4da497e7.chunk.js.map": "/InstaGram-Clone/static/js/2.4da497e7.chunk.js.map",
+    "index.html": "/InstaGram-Clone/index.html",
+    "static/css/main.ebbcf7d0.chunk.css.map": "/InstaGram-Clone/static/css/main.ebbcf7d0.chunk.css.map",
+    "static/js/2.4da497e7.chunk.js.LICENSE.txt": "/InstaGram-Clone/static/js/2.4da497e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3006790d.js",
+    "static/js/2.4da497e7.chunk.js",
+    "static/css/main.ebbcf7d0.chunk.css",
+    "static/js/main.16dea142.chunk.js"
+  ]
+}
