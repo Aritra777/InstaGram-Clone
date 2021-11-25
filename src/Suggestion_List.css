@@ -1,0 +1,16 @@
+.sgg-profile-pic {
+  width: 40px;
+  height: 40px;
+  margin: 0;
+}
+.sugg-names {
+  font-size: 14px;
+  position: relative;
+  right: 10px;
+}
+.sugg-cont {
+  height: 6vh;
+  /* min-height: 30px;
+  max-height: 40px; */
+  margin: 10px 0;
+}

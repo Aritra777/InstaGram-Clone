@@ -1,0 +1,10 @@
+.main_page{
+    width: 1065px ;
+    /* width: 60%; */
+    position: relative;
+    left: 20%;
+    /* margin: auto; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
